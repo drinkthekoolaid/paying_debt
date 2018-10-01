@@ -1,6 +1,9 @@
+"""
+A quick program finding the monthly rate in order to pay down debt in one year
+"""
+
 balance = 999999
 annualInterestRate = 0.18
-
 
 monthlyinterest = annualInterestRate / 12
 tempbalance = balance
